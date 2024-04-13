@@ -1,4 +1,4 @@
-ARG  FROMIMAGE=default-route-openshift-image-registry.apps.ocp-6640020dli-7cyg.cloud.techzone.ibm.com/rashid/ace-server-prod:12.0.11.2-r1
+ARG  FROMIMAGE=default-route-openshift-image-registry.apps.ocp-6640020dli-abby.cloud.techzone.ibm.com/rashid/ace-server-prod:12.0.11.2-r1
 
 # default-route-openshift-image-registry.apps.ocp-6640020dli-abby.cloud.techzone.ibm.com/rashid/ace-server-prod:12.0.11.2-r1
 # default-route-openshift-image-registry.apps.ocp-6640020dli-7cyg.cloud.techzone.ibm.com/rashid/ace-server-prod:12.0.11.2-r1
